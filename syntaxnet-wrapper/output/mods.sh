@@ -5,3 +5,4 @@
 cp output/demo_mod.sh output/parser.sh
 mv output/parser.sh syntaxnet/
 chmod +x syntaxnet/parser.sh
+chmod +x syntaxnet/demo.sh
