@@ -1,0 +1,27 @@
+1	Robert	_	NOUN	NNP	_	2	nn	_	_
+2	Cecil	_	NOUN	NNP	_	23	nsubj	_	_
+3	,	_	.	,	_	2	punct	_	_
+4	1st	_	NOUN	NNP	_	5	nn	_	_
+5	Earl	_	NOUN	NNP	_	2	appos	_	_
+6	of	_	ADP	IN	_	5	prep	_	_
+7	Salisbury	_	NOUN	NNP	_	6	pobj	_	_
+8	,	_	.	,	_	7	punct	_	_
+9	KG	_	NOUN	NNP	_	10	nn	_	_
+10	PC	_	NOUN	NN	_	7	appos	_	_
+11	-LRB-	_	.	-LRB-	_	13	punct	_	_
+12	1	_	NUM	CD	_	13	num	_	_
+13	June	_	NOUN	NNP	_	5	appos	_	_
+14	1563	_	NUM	CD	_	13	num	_	_
+15	?	_	.	.	_	13	punct	_	_
+16	24	_	NUM	CD	_	18	num	_	_
+17	May	_	NOUN	NNP	_	18	nn	_	_
+18	1612	_	NUM	CD	_	13	num	_	_
+19	-RRB-	_	.	-RRB-	_	13	punct	_	_
+20	was	_	VERB	VBD	_	23	cop	_	_
+21	an	_	DET	DT	_	23	det	_	_
+22	English	_	NOUN	NNP	_	23	nn	_	_
+23	administrator	_	NOUN	NN	_	0	ROOT	_	_
+24	and	_	CONJ	CC	_	23	cc	_	_
+25	politician	_	NOUN	NN	_	23	conj	_	_
+26	.	_	.	.	_	0	ROOT	_	_
+

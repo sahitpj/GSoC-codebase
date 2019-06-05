@@ -1,2 +1,4 @@
 #system files
 .DS_Store
+
+*.ttl

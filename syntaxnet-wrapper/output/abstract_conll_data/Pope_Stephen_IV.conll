@@ -1,0 +1,27 @@
+1	Pope	_	NOUN	NNP	_	3	nn	_	_
+2	Stephen	_	NOUN	NNP	_	3	nn	_	_
+3	IV	_	NOUN	NNP	_	17	nsubj	_	_
+4	-LRB-	_	.	-LRB-	_	3	punct	_	_
+5	Latin	_	NOUN	NNP	_	3	dep	_	_
+6	:	_	.	:	_	3	punct	_	_
+7	Stephanus	_	NOUN	NNP	_	8	nn	_	_
+8	IV	_	NOUN	NNP	_	3	dep	_	_
+9	;	_	.	:	_	8	punct	_	_
+10	c.	_	X	UH	_	8	dep	_	_
+11	770	_	NUM	CD	_	10	num	_	_
+12	24	_	NUM	CD	_	10	dep	_	_
+13	January	_	NOUN	NNP	_	12	dep	_	_
+14	817	_	NUM	CD	_	13	num	_	_
+15	-RRB-	_	.	-RRB-	_	3	punct	_	_
+16	was	_	VERB	VBD	_	17	cop	_	_
+17	Pope	_	NOUN	NNP	_	0	ROOT	_	_
+18	from	_	ADP	IN	_	17	prep	_	_
+19	June	_	NOUN	NNP	_	18	pobj	_	_
+20	816	_	NUM	CD	_	19	num	_	_
+21	to	_	ADP	IN	_	17	prep	_	_
+22	his	_	PRON	PRP$	_	23	poss	_	_
+23	death	_	NOUN	NN	_	21	pobj	_	_
+24	in	_	ADP	IN	_	23	prep	_	_
+25	817	_	NUM	CD	_	24	pobj	_	_
+26	.	_	.	.	_	0	ROOT	_	_
+

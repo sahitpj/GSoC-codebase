@@ -1,0 +1,20 @@
+1	Greg	_	NOUN	NNP	_	2	nn	_	_
+2	Egan	_	NOUN	NNP	_	18	nsubj	_	_
+3	-LRB-	_	.	-LRB-	_	2	punct	_	_
+4	born	_	VERB	VBN	_	2	partmod	_	_
+5	20	_	NUM	CD	_	6	num	_	_
+6	August	_	NOUN	NNP	_	4	dobj	_	_
+7	1961	_	NUM	CD	_	6	num	_	_
+8	-LRB-	_	.	-LRB-	_	10	punct	_	_
+9	citation	_	NOUN	NN	_	10	nsubj	_	_
+10	needed	_	VERB	VBN	_	6	dep	_	_
+11	-RRB-	_	.	-RRB-	_	10	punct	_	_
+12	-RRB-	_	.	-RRB-	_	2	punct	_	_
+13	is	_	VERB	VBZ	_	18	cop	_	_
+14	an	_	DET	DT	_	18	det	_	_
+15	Australian	_	ADJ	JJ	_	18	amod	_	_
+16	science	_	NOUN	NN	_	17	nn	_	_
+17	fiction	_	NOUN	NN	_	18	nn	_	_
+18	writer	_	NOUN	NN	_	0	ROOT	_	_
+19	.	_	.	.	_	0	ROOT	_	_
+

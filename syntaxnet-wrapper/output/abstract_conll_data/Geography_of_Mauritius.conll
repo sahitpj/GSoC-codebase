@@ -1,0 +1,15 @@
+1	Mauritius	_	NOUN	NNP	_	4	nsubj	_	_
+2	is	_	VERB	VBZ	_	4	cop	_	_
+3	an	_	DET	DT	_	4	det	_	_
+4	island	_	NOUN	NN	_	0	ROOT	_	_
+5	located	_	VERB	VBN	_	4	partmod	_	_
+6	in	_	ADP	IN	_	5	prep	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	Indian	_	NOUN	NNP	_	9	nn	_	_
+9	Ocean	_	NOUN	NNP	_	6	pobj	_	_
+10	,	_	.	,	_	9	punct	_	_
+11	east	_	ADV	RB	_	9	advmod	_	_
+12	of	_	ADP	IN	_	11	prep	_	_
+13	Madagascar	_	NOUN	NNP	_	12	pobj	_	_
+14	.	_	.	.	_	0	ROOT	_	_
+

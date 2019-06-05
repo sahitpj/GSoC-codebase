@@ -1,0 +1,22 @@
+1	In	_	ADP	IN	_	8	prep	_	_
+2	technology	_	NOUN	NN	_	1	pobj	_	_
+3	,	_	.	,	_	8	punct	_	_
+4	response	_	NOUN	NN	_	5	nn	_	_
+5	time	_	NOUN	NN	_	8	nsubj	_	_
+6	is	_	VERB	VBZ	_	8	cop	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	time	_	NOUN	NN	_	0	ROOT	_	_
+9	a	_	DET	DT	_	13	det	_	_
+10	system	_	NOUN	NN	_	13	nn	_	_
+11	or	_	CONJ	CC	_	10	cc	_	_
+12	functional	_	ADJ	JJ	_	10	conj	_	_
+13	unit	_	NOUN	NN	_	14	nsubj	_	_
+14	takes	_	VERB	VBZ	_	8	rcmod	_	_
+15	to	_	PRT	TO	_	16	aux	_	_
+16	react	_	VERB	VB	_	14	xcomp	_	_
+17	to	_	ADP	IN	_	16	prep	_	_
+18	a	_	DET	DT	_	20	det	_	_
+19	given	_	VERB	VBN	_	20	amod	_	_
+20	input	_	NOUN	NN	_	17	pobj	_	_
+21	.	_	.	.	_	0	ROOT	_	_
+

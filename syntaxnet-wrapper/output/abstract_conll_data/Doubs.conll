@@ -1,0 +1,27 @@
+1	Doubs	_	NOUN	NNS	_	0	ROOT	_	_
+2	-LRB-	_	.	-LRB-	_	1	punct	_	_
+3	-LRB-	_	.	-LRB-	_	1	punct	_	_
+4	du	_	NOUN	NN	_	1	dep	_	_
+5	-RRB-	_	.	-RRB-	_	1	punct	_	_
+6	;	_	.	:	_	1	punct	_	_
+7	Arpitan	_	NOUN	NNP	_	13	nsubj	_	_
+8	:	_	.	:	_	7	punct	_	_
+9	Dubs	_	NOUN	NNP	_	7	dep	_	_
+10	-RRB-	_	.	-RRB-	_	7	punct	_	_
+11	is	_	VERB	VBZ	_	13	cop	_	_
+12	a	_	DET	DT	_	13	det	_	_
+13	department	_	NOUN	NN	_	1	dep	_	_
+14	in	_	ADP	IN	_	13	prep	_	_
+15	the	_	DET	DT	_	17	det	_	_
+16	Franche-Comt	_	NOUN	NNP	_	17	nn	_	_
+17	region	_	NOUN	NN	_	14	pobj	_	_
+18	of	_	ADP	IN	_	17	prep	_	_
+19	eastern	_	ADJ	JJ	_	20	amod	_	_
+20	France	_	NOUN	NNP	_	18	pobj	_	_
+21	named	_	VERB	VBN	_	13	partmod	_	_
+22	after	_	ADP	IN	_	21	prep	_	_
+23	the	_	DET	DT	_	25	det	_	_
+24	Doubs	_	NOUN	NNP	_	25	nn	_	_
+25	River	_	NOUN	NNP	_	22	pobj	_	_
+26	.	_	.	.	_	0	ROOT	_	_
+

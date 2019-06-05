@@ -1,0 +1,23 @@
+1	Thomas	_	NOUN	NNP	_	3	nn	_	_
+2	Gainsborough	_	NOUN	NNP	_	3	nn	_	_
+3	FRSA	_	NOUN	NNP	_	21	nsubj	_	_
+4	-LRB-	_	.	-LRB-	_	3	punct	_	_
+5	christened	_	VERB	VBD	_	10	dep	_	_
+6	14	_	NUM	CD	_	7	num	_	_
+7	May	_	NOUN	NNP	_	5	tmod	_	_
+8	1727	_	NUM	CD	_	7	num	_	_
+9	,	_	.	,	_	10	punct	_	_
+10	died	_	VERB	VBD	_	3	dep	_	_
+11	2	_	NUM	CD	_	10	dobj	_	_
+12	August	_	NOUN	NNP	_	10	tmod	_	_
+13	1788	_	NUM	CD	_	12	num	_	_
+14	-RRB-	_	.	-RRB-	_	3	punct	_	_
+15	was	_	VERB	VBD	_	21	cop	_	_
+16	an	_	DET	DT	_	21	det	_	_
+17	English	_	ADJ	JJ	_	18	nn	_	_
+18	portrait	_	NOUN	NN	_	21	nn	_	_
+19	and	_	CONJ	CC	_	18	cc	_	_
+20	landscape	_	NOUN	NN	_	18	conj	_	_
+21	painter	_	NOUN	NN	_	0	ROOT	_	_
+22	.	_	.	.	_	0	ROOT	_	_
+

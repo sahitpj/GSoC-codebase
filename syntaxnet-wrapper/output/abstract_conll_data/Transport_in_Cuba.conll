@@ -1,0 +1,22 @@
+1	Transportation	_	NOUN	NN	_	5	nsubjpass	_	_
+2	in	_	ADP	IN	_	1	prep	_	_
+3	Cuba	_	NOUN	NNP	_	2	pobj	_	_
+4	is	_	VERB	VBZ	_	5	auxpass	_	_
+5	composed	_	VERB	VBN	_	0	ROOT	_	_
+6	of	_	ADP	IN	_	5	prep	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	system	_	NOUN	NN	_	6	pobj	_	_
+9	of	_	ADP	IN	_	8	prep	_	_
+10	railways	_	NOUN	NNS	_	9	pobj	_	_
+11	,	_	.	,	_	10	punct	_	_
+12	roads	_	NOUN	NNS	_	10	conj	_	_
+13	,	_	.	,	_	10	punct	_	_
+14	airports	_	NOUN	NNS	_	10	conj	_	_
+15	,	_	.	,	_	10	punct	_	_
+16	waterways	_	NOUN	NNS	_	10	conj	_	_
+17	,	_	.	,	_	10	punct	_	_
+18	ports	_	NOUN	NNS	_	10	conj	_	_
+19	and	_	CONJ	CC	_	10	cc	_	_
+20	harbours	_	NOUN	NNS	_	10	conj	_	_
+21	:	_	.	:	_	0	ROOT	_	_
+

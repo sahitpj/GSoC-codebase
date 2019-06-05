@@ -1,0 +1,20 @@
+1	Eure	_	NOUN	NNP	_	0	ROOT	_	_
+2	-LRB-	_	.	-LRB-	_	6	punct	_	_
+3	-LRB-	_	.	-LRB-	_	6	punct	_	_
+4	-RRB-	_	.	-RRB-	_	6	punct	_	_
+5	-RRB-	_	.	-RRB-	_	6	punct	_	_
+6	is	_	VERB	VBZ	_	0	ROOT	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	department	_	NOUN	NN	_	6	nsubj	_	_
+9	in	_	ADP	IN	_	8	prep	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	north	_	NOUN	NN	_	9	pobj	_	_
+12	of	_	ADP	IN	_	11	prep	_	_
+13	France	_	NOUN	NNP	_	12	pobj	_	_
+14	named	_	VERB	VBN	_	8	partmod	_	_
+15	after	_	ADP	IN	_	14	prep	_	_
+16	the	_	DET	DT	_	18	det	_	_
+17	river	_	NOUN	NN	_	18	nn	_	_
+18	Eure	_	NOUN	NNP	_	15	pobj	_	_
+19	.	_	.	.	_	6	punct	_	_
+
