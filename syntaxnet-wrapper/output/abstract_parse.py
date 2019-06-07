@@ -8,7 +8,7 @@ with open("output/abstracts_data.json") as json_file:
     abstracts_data = json.load(json_file)
 
 count = 0
-for key in list(abstracts_data.keys()):
+for key in list(abstracts_data.keys())[1250:]:
     command = 'echo "{}" | syntaxnet/parser.sh > output/abstract_conll_data/{}.conll'.format(cleaned(abstracts_data[key]), cleaned(key))
     os.system(command)
     if count == 3:

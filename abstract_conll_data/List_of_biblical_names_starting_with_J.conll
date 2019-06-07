@@ -1,0 +1,25 @@
+1	A	_	DET	DT	_	8	det	_	_
+2	B	_	NOUN	NN	_	3	nn	_	_
+3	C	_	NOUN	NNP	_	7	nn	_	_
+4	D	_	NOUN	NNP	_	7	nn	_	_
+5	E	_	NOUN	NNP	_	7	nn	_	_
+6	F	_	NOUN	NNP	_	7	nn	_	_
+7	G	_	NOUN	NNP	_	8	nn	_	_
+8	H	_	NOUN	NN	_	0	ROOT	_	_
+9	I	_	PRON	PRP	_	8	dep	_	_
+10	J	_	VERB	VBP	_	14	nn	_	_
+11	K	_	NOUN	NNP	_	12	nn	_	_
+12	L	_	NOUN	NNP	_	14	nn	_	_
+13	M	_	NOUN	NNP	_	14	nn	_	_
+14	N	_	NOUN	NNP	_	9	dep	_	_
+15	O	_	X	FW	_	16	nn	_	_
+16	P	_	NOUN	NN	_	14	dep	_	_
+17	Q	_	NOUN	NNP	_	18	nn	_	_
+18	R	_	NOUN	NN	_	16	dep	_	_
+19	S	_	NOUN	NNP	_	20	nn	_	_
+20	T	_	NOUN	NNP	_	22	nn	_	_
+21	U	_	NOUN	NNP	_	22	nn	_	_
+22	V	_	NOUN	NNP	_	24	nn	_	_
+23	Y	_	NOUN	NNP	_	24	nn	_	_
+24	Z	_	NOUN	NNP	_	14	dep	_	_
+
