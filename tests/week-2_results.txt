@@ -1,0 +1,88 @@
+# results
+baseline 
+
+1.
+[(['Anger', 'published', 'at'], 'three', 'madeIn'), (['Anger', 'found'], 'expressions', 'foundIn'), (['Anger', 'published'], 'participants', 'madeBy'), (['is', 'response'], 'Anger', 'attribute'), (['is', 'on'], 'Anger', 'publishedIn'), (['as', 'manipulation_strategy'], 'Anger', 'used_')]
+[(['Osman', 'established', 'at'], 'six', 'madeIn'), (['Osman', 'found'], 'beylik', 'foundIn'), (['was', 'Khan'], 'Osman', 'attribute'), (['leader', 'Ottoman_Turks'], 'Osman', 'leaderOf')]
+[(['is', 'town'], 'Lillehammer', 'attribute'), (['king', 'lake_Mjsa'], 'Lillehammer', 'leaderOf')]
+
+2.
+[(['is', 'mode'], 'reproduction', 'attribute'), ('mode', 'reproduction', 'attribute|profession_multiple'), (['reproduction'], 'reproduction', 'formOf')]
+[(['Simonides', 'born', 'at'], 'nine', 'madeIn'), (['Simonides', 'present'], 'simplicity', 'foundIn'), (['was', 'poet'], 'Simonides', 'attribute'), (['ghost'], 'Simonides', 'representedBy'), (['papyrus_fragments'], 'Simonides', 'formOf')]
+[(['Hawaii', 'in'], 'Oceania', 'locatedIn|On'), (['is', 'miles'], 'Hawaii', 'attribute')]
+
+3. 
+[(['Amalthea'], 'Jupiter_V', 'also known as'), (['is', 'Jupiter_V'], 'Amalthea', 'attribute'), (['satellites'], 'Amalthea', 'formOf')]
+[(['Haggai', 'found'], 'Book', 'foundIn'), (['was', 'Hebrew_prophet'], 'Haggai', 'attribute'), (['in', 'advantage'], 'Haggai', 'used_')]
+[(['Himachal_Pradesh', 'made', 'in'], 'three', 'madeIn'), (['Himachal_Pradesh'], 'Anglo_War', 'also known as'), (['is', 'state'], 'Himachal_Pradesh', 'attribute'), (['places'], 'Himachal_Pradesh', 'madeOf')]
+
+
+modified-1 
+
+1.
+[(['Raymond_Novaco', 'published', 'at'], 'three', 'madeIn'), (['expression', 'found'], 'expressions', 'foundIn'), (['is', 'response'], 'Anger', 'attribute'), (['as', 'manipulation_strategy'], 'Displays', 'used_')]
+[(['was', 'Khan'], 'principality', 'attribute')]
+[(['is', '19th_concentration'], 'city_centre', 'attribute'), (['king', 'lake_Mjsa'], 'city_centre', 'leaderOf')]
+
+2.
+[(['is', 'mode'], 'reproduction', 'attribute'), ('mode', 'reproduction', 'attribute|profession_multiple'), (['reproduction'], 'reproduction', 'formOf')]
+[(['ability', 'present'], 'simplicity', 'foundIn'), (['is', 'topic'], 'Simonides_of_Ceos', 'attribute'), ('topic', 'Simonides of Ceos', 'attribute|profession_multiple'), (['ghost'], 'Simonides_of_Ceos', 'representedBy'), (['papyrus_fragments'], 'poetry', 'formOf')]
+[(['state', 'in'], 'Oceania', 'locatedIn|On'), (['is', 'miles'], 'coastline', 'attribute')]
+
+3.
+[(['Amalthea_'], 'Jupiter_V', 'also known as'), (['is', 'Jupiter_V'], 'Amalthea_', 'attribute')]
+[(['vocalizations', 'found'], 'Book', 'foundIn'), (['was', 'Hebrew_prophet'], 'Haggai', 'attribute'), ('Hebrew prophet', 'Aggaeus', 'attribute|profession_multiple'), (['in', 'Haggai'], 'Haggai', 'used_')]
+[(['war'], 'Anglo_War', 'also known as'), (['is', 'state'], 'Himachal_Pradesh', 'attribute'), (['beauty'], 'Himachal_Pradesh', 'famousFor')]
+
+
+Non-Greedy baseline 
+
+1.
+[('conjugation', 'gene transfer', 'typeOf'), ('transformation', 'gene transfer', 'typeOf'), ('transduction', 'gene transfer', 'typeOf'), (['is', 'repair'], 'meios', 'attribute'), ('mode', 'reproduction', 'attribute|profession_multiple'), (['recombination'], 'trans', 'formOf')]
+[(['poet', 'born', 'at'], 'nine', 'madeIn'), (['Simonides_of_Ceos', 'present'], 'desecration', 'foundIn'), (['is', 'ghost'], 'Simonides_of_Ceos', 'attribute'), ('topic', 'Simonides of Ceos', 'attribute|profession_multiple'), (['ghost'], 'Simonides_of_Ceos', 'representedBy'), (['papyrus_fragments'], 'poetry', 'formOf')]
+[(['state', 'in'], 'Americas', 'locatedIn|On'), (['is', 'miles'], 'coastline', 'attribute')]
+
+2.
+[(['UC_Irvine', 'published', 'at'], 'three', 'madeIn'), (['anger', 'found'], 'expressions', 'foundIn'), (['UC_Irvine', 'published'], 'participants', 'madeBy'), (['is', 'response'], 'wrath', 'attribute'), (['is', 'on'], 'wrath', 'publishedIn'), (['as', 'manipulation_strategy'], 'anger', 'used_')]
+[(['dynasty', 'established', 'at'], 'six', 'madeIn'), (['Ottoman_Turks', 'found'], 'beylik', 'foundIn'), (['was', 'Khan'], 'July', 'attribute'), (['leader', 'Ottoman_Turks'], 'Kara', 'leaderOf')]
+[(['is', '19th_concentration'], 'city_centre', 'attribute'), (['king', 'lake_Mjsa'], 'location', 'leaderOf')]
+
+3.
+(['mythology'], 'Jupiter_V', 'also known as'), (['is', 'Jupiter_V'], 'mythology', 'attribute'), (['satellites'], 'Amalthea_Gossamer_Ring', 'formOf')]
+[(['vocalizations', 'found'], 'Book', 'foundIn'), (['is', 'Book'], 'vocalizations', 'attribute'), ('Hebrew prophet', 'Aggaeus', 'attribute|profession_multiple'), (['in', 'advantage'], 'people', 'used_')]
+[('Delhi', 'states', 'typeOf'), ('Punjab', 'states', 'typeOf'), ('Rajasthan', 'states', 'typeOf'), (['states', 'made', 'in'], 'three', 'madeIn'), (['Britain'], 'Anglo_War', 'also known as'), (['is', 'state'], 'Region', 'attribute'), (['places'], 'states', 'madeOf'), (['beauty'], 'Himachal_Pradesh', 'famousFor')]
+
+Non-Greedy modified-1
+
+1.
+[('conjugation', 'gene transfer', 'typeOf'), ('transformation', 'gene transfer', 'typeOf'), ('transduction', 'gene transfer', 'typeOf'), (['is', 'repair'], 'meios', 'attribute'), ('mode', 'reproduction', 'attribute|profession_multiple'), (['recombination'], 'trans', 'formOf')]
+[(['poet', 'born', 'at'], 'nine', 'madeIn'), (['Simonides_of_Ceos', 'present'], 'desecration', 'foundIn'), (['is', 'ghost'], 'Simonides_of_Ceos', 'attribute'), ('topic', 'Simonides of Ceos', 'attribute|profession_multiple'), (['ghost'], 'Simonides_of_Ceos', 'representedBy'), (['papyrus_fragments'], 'poetry', 'formOf')]
+[(['state', 'in'], 'Americas', 'locatedIn|On'), (['is', 'miles'], 'coastline', 'attribute')]
+
+2.
+(['UC_Irvine', 'published', 'at'], 'three', 'madeIn'), (['anger', 'found'], 'expressions', 'foundIn'), (['UC_Irvine', 'published'], 'participants', 'madeBy'), (['is', 'response'], 'wrath', 'attribute'), (['is', 'on'], 'wrath', 'publishedIn'), (['as', 'manipulation_strategy'], 'anger', 'used_')]
+[(['dynasty', 'established', 'at'], 'six', 'madeIn'), (['Ottoman_Turks', 'found'], 'beylik', 'foundIn'), (['was', 'Khan'], 'July', 'attribute'), (['leader', 'Ottoman_Turks'], 'Kara', 'leaderOf')]
+[(['is', '19th_concentration'], 'city_centre', 'attribute'), (['king', 'lake_Mjsa'], 'location', 'leaderOf')]
+
+3.
+(['Amalthea_'], 'Jupiter_V', 'also known as'), (['is', 'Jupiter_V'], 'Amalthea_', 'attribute'), (['satellites'], 'Amalthea_Gossamer_Ring', 'formOf')]
+[(['vocalizations', 'found'], 'Book', 'foundIn'), (['is', 'Book'], 'vocalizations', 'attribute'), ('Hebrew prophet', 'Aggaeus', 'attribute|profession_multiple'), (['in', 'Haggai'], 'people', 'used_')]
+[('Delhi', 'states', 'typeOf'), ('Punjab', 'states', 'typeOf'), ('Rajasthan', 'states', 'typeOf'), (['states', 'made', 'in'], 'three', 'madeIn'), (['Britain'], 'Anglo_War', 'also known as'), (['is', 'state'], 'Region', 'attribute'), (['places'], 'states', 'madeOf'), (['beauty'], 'Himachal_Pradesh', 'famousFor')]
+
+
+Semi - greedy 
+
+1. 
+[('conjugation', 'gene transfer', 'typeOf'), ('transformation', 'gene transfer', 'typeOf'), ('transduction', 'gene transfer', 'typeOf'), (['is', 'mode'], 'reproduction', 'attribute'), ('mode', 'reproduction', 'attribute|profession_multiple'), (['reproduction'], 'reproduction', 'formOf')]
+[(['Simonides', 'born', 'at'], 'nine', 'madeIn'), (['Simonides', 'present'], 'simplicity', 'foundIn'), (['was', 'poet'], 'Simonides', 'attribute'), ('topic', 'Simonides of Ceos', 'attribute|profession_multiple'), (['ghost'], 'Simonides', 'representedBy'), (['papyrus_fragments'], 'Simonides', 'formOf')]
+[(['Hawaii', 'in'], 'Oceania', 'locatedIn|On'), (['is', 'miles'], 'Hawaii', 'attribute')]
+
+2.
+[(['Anger', 'published', 'at'], 'three', 'madeIn'), (['Anger', 'found'], 'expressions', 'foundIn'), (['Anger', 'published'], 'participants', 'madeBy'), (['is', 'response'], 'Anger', 'attribute'), (['is', 'on'], 'wrath', 'publishedIn'), (['as', 'manipulation_strategy'], 'Anger', 'used_')]
+[(['Osman', 'established', 'at'], 'six', 'madeIn'), (['Osman', 'found'], 'beylik', 'foundIn'), (['was', 'Khan'], 'Osman', 'attribute'), (['leader', 'Ottoman_Turks'], 'Osman', 'leaderOf')]
+[(['is', 'town'], 'Lillehammer', 'attribute'), (['king', 'lake_Mjsa'], 'Lillehammer', 'leaderOf')]
+
+3. 
+[(['Amalthea'], 'Jupiter_V', 'also known as'), (['is', 'Jupiter_V'], 'Amalthea', 'attribute'), (['satellites'], 'Amalthea', 'formOf')]
+[(['Haggai', 'found'], 'Book', 'foundIn'), (['was', 'Hebrew_prophet'], 'Haggai', 'attribute'), ('Hebrew prophet', 'Aggaeus', 'attribute|profession_multiple'), (['in', 'Haggai'], 'Haggai', 'used_')]
+[('Delhi', 'states', 'typeOf'), ('Punjab', 'states', 'typeOf'), ('Rajasthan', 'states', 'typeOf'), (['Himachal_Pradesh', 'made', 'in'], 'three', 'madeIn'), (['Himachal_Pradesh'], 'Anglo_War', 'also known as'), (['is', 'state'], 'Himachal_Pradesh', 'attribute'), (['places'], 'Himachal_Pradesh', 'madeOf'), (['beauty'], 'Himachal_Pradesh', 'famousFor')]
