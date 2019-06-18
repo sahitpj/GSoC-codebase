@@ -12,7 +12,7 @@ with open(abstract_data_path) as json_file:
     abstracts_data = json.load(json_file)
 
 textraction = TripleExtraction()
-results = open('tregex_results.txt', 'w')
+results = open('tregex_results2.txt', 'w')
 count = 0
 for key, value in abstracts_data.items():
     triplets = []
