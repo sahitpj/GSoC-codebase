@@ -1,0 +1,21 @@
+Asexual_reproduction.conll,Simonides_of_Ceos.conll,Hawaii.conll
+1
+('Asexual_reproduction', 'hypernym', 'reproduction')
+('agamogenesis', 'hypernym', 'reproduction')
+('archaebacteria', 'hypernym', 'organisms')
+('eubacteria', 'hypernym', 'organisms')
+('protists', hypernym', 'organisms')
+('conjugation', 'hypernym',  'lateral_gene_transfer')
+('transformation', 'hypernym', 'lateral_gene_transfer')
+('transduction', 'hypernym', 'lateral_gene_transfer')
+2
+('Simonides', 'hypernym', 'poet')
+('Simonides', 'bornAt', 'Ioulis')
+('Simonides_of_Ceos', 'associatedWith', 'epitaphs')
+3
+('Hawaii', 'hypernym', 'state')
+('Hawaii', 'locatedOn', 'Oceania')
+('Hawaii', 'comprisedOf', 'islands')
+('Hawaii', 'encompasses', 'archipelago')
+('Hawaii', 'called', 'Big_Island')
+('Hawaii', 'capital', 'Honolulu')

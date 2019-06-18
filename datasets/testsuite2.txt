@@ -1,0 +1,6 @@
+Anger.conll,Osman_I.conll,Lillehammer.conll
+1
+('Anger', 'hypernym', 'response')
+('Anger', 'hypernym', 'intense_emotional_response')
+('wrath', 'hypernym', 'response')
+('wrath', 'hypernym', 'intense_emotional_response')

@@ -1,0 +1,341 @@
+90_BC
+[('BC', 'was', 'year'), ('time', 'known', 'Year'), ('denomination', 'naming', 'period')]
+CLU_%28programming_language%29
+[('CLU', 'created', 'programming'), ('use', 'find', 'use'), ('features', 'include', 'object-oriented'), ('use', 'is', 'notable')]
+Heinrich_Hertz
+[('Heinrich', 'theorized', 'physicist'), ('Hertz', 'ruled', 'theory'), ('unit', 'named', 'hertz')]
+Olof_Palme
+[('Sven', 'was', 'Social'), ('protégé', 'heading', 'Social'), ('Electoral', 'defeats', 'end'), ('leader', 'returned', 'interests'), ('figure', 'polarizing', 'figure'), ('Head', 'praising', 'Head'), ('condemnation', 'comparing', 'tactic'), ('Palme', 'labeled', 'system'), ('murder', 'had', 'assailant'), ('addict', 'convict', 'murder')]
+Sven-G%25C3%25B6ran_Eriksson
+[('Sven-Göran', 'born', 'nickname'), ('teams', 'managed', 'teams'), ('manager', 'worked', 'manager')]
+Seventh_Amendment_to_the_United_States_Constitution
+[('Seventh', 'is', 'part'), ('amendment', 'introduced', 'right'), ('Congress', 'revised', 'version'), ('Secretary', 'announced', 'adoption'), ('Seventh', 'applied', 'states'), ('prohibition', 'overturning', 'jury'), ('United', 'was', 'test'), ('amendment', 'guarantee', 'trial'), ('cases', 'guarantees', 'consent'), ('amendment', 'been', 'subject')]
+Red-eye_effect
+[('red-eye', 'is', 'appearance'), ('flash', 'using', 'flash'), ('effect', 'have', 'eyes'), ('followspot', 'positioned', 'light'), ('effect', 'is', 'visible')]
+5.56%25C3%259745mm_NATO
+[('mm', 'chambered', 'cartridge'), ('STANAG', 'is', 'cartridge'), ('Remington', 'derived', 'Remington')]
+Jacksonville%2C_Florida
+[('Jacksonville', 'is', 'city'), ('county', 'is', 'county'), ('Consolidation', 'placed', 'Jacksonville'), ('Jacksonville', 'is', 'city'), ('Jacksonville', 'centered', 'First'), ('Jacksonville', 'are', 'Atlantic'), ('area', 'was', 'Timucua'), ('rule', 'known', 'point'), ('town', 'gained', 'year'), ('location', 'facilitates', 'U.S.'), ('factors', 'include', 'services'), ('Florida', 'is', 'important'), ('Jacksonville', 'listed', 'sufficiency'), ('People', 'called', 'Jacksonvillians')]
+Space_Quest
+[('Space', 'released', 'series'), ('games', 'named', 'adventures'), ('Sierra', 'called', 'Sierra'), ('series', 'featured', 'sense'), ('Roger', 'violating', 'underdog')]
+History_of_Germans_in_Russia%2C_Ukraine_and_the_Soviet_Union
+[('minority', 'created', 'sources'), ('census', 'living', 'number'), ('population', 'was', None), ('census', 'making', 'Germans'), ('Germans', 'were', 'Germans'), ('census', 'lived', 'Ukraine.In'), ('Germans', 'speak', 'Russian'), ('Germans', 'have', 'culture'), ('Germany', 'limited', 'immigration')]
+Ship_commissioning
+[('Ship', 'commissioning', 'act'), ('term', 'applied', 'placing'), ('ceremonies', 'involved', 'centuries'), ('Ship', 'endow', 'ship'), ('engineering', 'transform', 'hull'), ('officer', 'form', 'crew'), ('ship', 'needing', 'sea'), ('preparation', 'powered', 'years'), ('USS', 'commissioned', 'launch')]
+Swamp
+[('wetland', 'swamp', 'wetland'), ('swamps', 'are', 'rivers'), ('swamps', 'occur', 'shores'), ('swamps', 'tolerates', 'hammocks'), ('types', 'swamp', 'true'), ('boreal', 'swamp', 'bog'), ('water', 'be', 'water'), ('world', 'found', 'rivers')]
+Columbus%2C_Indiana
+[('Columbus', 'is', 'city'), ('population', 'was', 'census'), ('miles', 'Located', 'miles'), ('city', 'describing', 'city'), ('Columbus', 'won', 'contest'), ('July', 'named', 'Columbus'), ('Columbus', 'is', 'headquarters')]
+November_30
+[('November', 'is', 'day'), ('days', 'remaining', 'days')]
+Limestone_County%2C_Alabama
+[('Limestone', 'is', 'county'), ('census', 'was', None), ('county', 'is', 'Athens'), ('name', 'comes', 'Limestone')]
+Badalona
+[('Badalona', 'is', 'city'), ('comarca', 'joined', 'located'), ('bank', 'backed', 'left'), ('Badalona', 'is', 'municipality'), ('city', 'became', 'city'), ('city', 'governed', 'Partido')]
+D%25C4%2585browa_G%25C3%25B3rnicza
+[('Dąbrowa', 'is', 'city'), ('part', 'see', 'located'), ('Dąbrowa', 'populated', 'cities'), ('population', 'is', 'Dec')]
+Beeswax
+[('Beeswax', 'produced', 'wax'), ('wax', 'discard', 'scales'), ('workers', 'form', 'comb'), ('beeswax', 'consists', 'esters'), ('wax', 'hydrolysed', 'guts'), ('birds', 'digest', 'beeswax')]
+David_Horowitz
+[('David', 'born', 'writer'), ('founder', 'tracks', 'founder'), ('Horowitz', 'were', 'organization'), ('Horowitz', 'rejecting', 'New'), ('Horowitz', 'culminating', 'journey')]
+Agathocles_of_Syracuse
+[('Agathocles', 'was', 'tyrant')]
+Lucan
+[('Marcus', 'known', 'English'), ('life', 'regarded', 'figures'), ('youth', 'set', 'poets')]
+Cake_%28band%29
+[('Cake', 'is', 'rock'), ('singer', 'Consisting', 'singer'), ('Cake', 'replaced', 'McCrea'), ('self-release', 'featured', 'Capricorn'), ('Cake', 'went', 'platinum'), ('tour', 'led', 'Cake'), ('Magic', 'went', 'Magic'), ('series', 'released', 'Pressure'), ('label', 'creating', 'label')]
+488
+[('Year', 'display', 'leap'), ('time', 'known', 'Year'), ('denomination', 'naming', 'period')]
+Drum_kit
+[('kit', 'set', 'kit'), ('kit', 'including', 'kit'), ('kits', 'included', 'instruments'), ('kit', 'taught', 'music'), ('drums', 'scoring', 'drums'), ('kit', 'drum', 'kit'), ('kit', 'do', 'kit'), ('Peter', 'published', 'Peter'), ('DRUMS', 'including', 'BIG'), ('styles', 'are', 'normal'), ('performers', None, None)]
+NS320xx
+[('320xx', 'was', 'series'), ('microprocessors', 'become', 'likely'), ('320xx', 'used', 'basis'), ('CompactRISC', 'replaced', 'CompactRISC')]
+Ion_channel
+[('Ion', 'regulating', 'membrane'), ('Ion', 'are', 'present'), ('Ion', 'including', 'classes'), ('Study', 'including', 'biophysics')]
+Philippe_II%2C_Duke_of_Orl%25C3%25A9ans
+[('Philippe', 'served', 'member'), ('father', 'Born', 'father'), ('father', 'known', 'Louis'), ('Philippe', 'legitimised', 'cousin'), ('regent', 'attained', 'regent'), ('Versailles', 'died', 'Versailles'), ('Régent', 'referred', 'Régent')]
+Fairfax_County%2C_Virginia
+[('article', 'is', 'county'), ('city', 'see', 'Fairfax'), ('uses', 'see', 'Fairfax'), ('Fairfax', 'is', 'county'), ('census', 'was', 'jurisdiction'), ('county', 'is', 'jurisdiction'), ('county', 'is', 'Fairfax'), ('Fairfax', 'is', 'county'), ('county', 'including', 'Fortune')]
+Side_effect_%28computer_science%29
+[('computer', 'calling', 'effect'), ('example', 'call', 'variable'), ('presence', 'depend', 'history'), ('function', 'debugging', 'function'), ('Side', 'interacts', 'way'), ('degree', 'used', 'programming'), ('programming', 'known', 'utilization'), ('programming', 'used', None), ('languages', 'restrict', 'effects'), ('language', 'mentioned', 'effects'), ('example', 'modifies', 'arithmetic'), ('drawback', 'set', 'effects'), ('problem', 'designed', 'acute'), ('processor', 'depends', 'control')]
+Cutter_Expansive_Classification
+[('Cutter', 'devised', 'library'), ('system', 'was', 'basis')]
+Navajo_County%2C_Arizona
+[('Navajo', 'is', 'located'), ('census', 'was', None), ('county', 'is', 'Holbrook'), ('Navajo', 'contains', 'Show')]
+Apuleius
+[('Apuleius', 'called', 'Lucius'), ('Berber', 'lived', 'Berber'), ('Madaurus', 'was', 'Madaurus'), ('Platonist', 'was', 'Platonist'), ('incident', 'gain', 'attentions'), ('tour', 'convened', 'tour'), ('Apologia.His', 'known', 'Apologia.His'), ('Latin', 'survived', 'Latin'), ('adventures', 'turned', 'adventures')]
+Newlyn_School
+[('Newlyn', 'based', 'art'), ('establishment', 'emphasizing', 'reminiscent'), ('schools', 'known', 'En'), ('Newlyn', 'attract', 'number'), ('artists', 'working', 'fishermen'), ('paintings', 'hearing', 'hazards'), ('Lamorna', 'done', 'mover'), ('Forbes', 'founded', 'Stanhope'), ('day', 'working', 'Arts'), ('nineteenth', 'associated', 'south'), ('Lamorna', 'lived', None)]
+CRESU_experiment
+[('CRESU', 'lit', None), ('Reaction', 'taking', 'experiment'), ('technique', 'involves', 'expansion'), ('nozzle', 'expands', 'gas'), ('nozzle', 'produces', 'temperature'), ('way', 'achieved', None), ('CRESU', 'run', 'CRESU'), ('centres', 'been', 'University'), ('development', 'requires', 'version'), ('One', 'using', 'complex'), ('answer', 'is', 'simple'), ('CRESU', 'investigated', 'flow'), ('Chemical', 'followed', 'pump-probe'), ('fluorescence', 'captured', 'photomultiplier'), ('time', 'known', 'maximum'), ('reagent', 'differing', 'reagent'), ('Reactions', 'studied', 'CRESU'), ('case', 'involve', 'species'), ('force', 'show', 'range'), ('chemistry', 'occur', 'chemistry')]
+Eleanor_of_Aquitaine
+[('Eleanor', 'was', 'women'), ('Duchess', 'was', 'Duchess'), ('patron', 'was', 'patron'), ('Eleanor', 'made', 'bride'), ('months', 'became', 'duchess'), ('Queen', 'participated', 'Crusade'), ('Eleanor', 'sought', 'annulment'), ('birth', 'bear', 'annulment'), ('marriage', 'annulled', 'grounds'), ('daughters', 'declared', 'Louis'), ('annulment', 'granted', 'Henry'), ('Henry', 'was', 'cousin'), ('couple', 'married', 'May'), ('years', 'become', 'Henry'), ('Henry', 'estranged', None), ('Henry', 'supporting', 'son'), ('Henry', 'ascended', 'Henry'), ('Eleanor', 'lived', 'reign'), ('time', 'outlived', 'children')]
+ACIS
+[('3D', 'developed', 'modeling'), ('ACIS', 'used', 'software'), ('ACIS', 'provides', 'software'), ('ACIS', 'enables', 'citation'), ('ACIS', 'integrates', 'applications')]
+Athanasius_of_Alexandria
+[('Saint', 'called', 'Athanasius'), ('episcopate', 'see', 'Rome'), ('Athanasius', 'noted', 'theologian'), ('Conflict', 'shaped', 'Athanasius'), ('age', 'leading', 'role'), ('Roman', 'is', 'council'), ('years', 'succeeded', 'mentor'), ('addition', 'led', 'Eusebius'), ('Athanasius', 'known', 'Athanasius'), ('writings', 'noted', 'Church'), ('Athanasius', 'counted', 'Doctors'), ('Eastern', 'labeled', 'Father'), ('Protestants', None, None), ('Athanasius', 'is', 'saint'), ('Roman', 'venerated', 'Roman')]
+The_Hollywood_Revue_of_1929
+[('Hollywood', 'released', 'film'), ('studio', 'was', 'studio'), ('Harry', 'directed', 'Harry'), ('masters', 'are', 'Conrad'), ('movie', 'talking', 'Show')]
+Pope_Sixtus_I
+[('Pope', 'c.', 'Bishop'), ('Pope', 'succeeded', 'Pope'), ('documents', 'polished', 'spelling'), ('Pope', 'meaning', 'Pope'), ('Holy', 'served', 'Roman'), ('Liberian', 'is', 'Church'), ('Eusebius', 'claims', 'pope'), ('authorities', 'reigned', 'years'), ('Sixtus', 'instituted', 'Roman'), ('predecessors', 'lies', 'Saint'), ('birth', 'was', 'birth'), ('Liber', 'ed', None), ('Duchesne', 'following', 'ordinances'), ('Xystus', 'commemorated', 'Catholic')]
+Skepticism
+[('Skepticism', 'spelling', 'differences'), ('skepticism', 'asserted', 'Skeptikoi'), ('Adherents', 'suspend', 'judgment'), ('Skeptics', 'doubt', 'reliability'), ('skepticism', 'concerning', 'principles'), ('Scientific', 'discover', 'testing')]
+Neuropil
+[('Neuropil', 'referred', 'neuropile'), ('region', 'have', 'brain'), ('example', 'contain', 'neuropil'), ('White', 'composed', 'axons'), ('Neuropil', 'needed', 'Neuropil'), ('neuro', 'felt', 'neuro'), ('term', 'traced', 'century')]
+Penicillin
+[('Penicillin', 'including', 'group'), ('Penicillin', 'caused', 'drugs'), ('Penicillins', 'made', 'misuse'), ('penicillins', 'exist', 'antibiotics')]
+Joseph_Conrad
+[('Joseph', 'born', 'Józef'), ('nationality', 'granted', 'nationality'), ('Conrad', 'regarded', 'novelists'), ('stories', 'depict', 'stories'), ('sea', 'is', 'element'), ('Joseph', 'contain', 'works'), ('style', 'including', 'authors'), ('Eliot', None, None), ('films', 'inspired', 'works'), ('critics', 'Appreciated', 'critics')]
+Villanova_d%27Asti
+[('Villanova', 'is', 'town'), ('inhabitants', 'has', 'inhabitants'), ('economy', 'based', 'mixture'), ('Villanova', 'founded', 'Middle'), ('sight', 'is', 'sanctuary')]
+Johnny_Weissmuller
+[('Johnny', 'born', 'Peter'), ('Weissmuller', 'winning', 'world'), ('U.S.', 'was', 'U.S.'), ('competitions', 'retiring', 'competitions'), ('Dozens', 'played', 'Tarzan'), ('character', 'used', 'films')]
+1396
+[('Year', 'display', 'leap')]
+Pope_Clement_IV
+[('Pope', 'Foulques', 'Guy')]
+1505
+[('Year', 'display', 'year')]
+Samuel_Taylor_Coleridge
+[('Samuel', 'was', 'poet'), ('poems', 'wrote', 'poems'), ('work', 'was', 'influential'), ('Coleridge', 'including', 'words'), ('influence', 'was', 'influence'), ('health', 'stemmed', 'health'), ('concerns', 'fostered', 'concerns')]
+Scarabaeidae
+[('family', 'defined', 'species'), ('species', 'called', 'scarabs'), ('classification', 'competing', 'unstable'), ('subfamilies', 'appearing', 'probable'), ('families', 'accepted', 'Pleocomidae')]
+436_BC
+[('BC', 'was', 'year'), ('time', 'known', 'Year'), ('denomination', 'naming', 'period')]
+Snowball
+[('snowball', 'compacting', 'object'), ('snowball', 'engage', 'games'), ('Snowball', 'throwing', 'light-hearted'), ('pressure', 'exerted', 'hands'), ('pressure', 'leads', 'light'), ('packing', 'applying', 'packing'), ('snowball', 'rolling', 'ball'), ('snowball', 'rolls', 'snow'), ('terms', 'named', 'process'), ('snowman', 'build', 'method'), ('temperature/humidity', 'restrict', 'temperature/humidity'), ('snow', 'form', 'difficult'), ('temperatures', 'leads', 'water'), ('°C', 'results', 'cohesion'), ('person', 'walking', 'snow')]
+Internet_Relay_Chat
+[('Internet', 'facilitates', 'application'), ('chat', 'works', 'networking'), ('IRC', 'install', 'computer'), ('clients', 'transfer', 'chat'), ('IRC', 'including', 'group'), ('Client', 'supports', 'available'), ('April', 'operating', 'users'), ('decade', 'declining', '%')]
+Linda_Hamilton
+[('Linda', 'nominated', 'actress'), ('Hamilton', 'recurring', 'role')]
+Pope_Benedict_VIII
+[(), ('April', 'reigned', 'death'), ('Theophylactus', 'born', 'Theophylactus')]
+August_22
+[('August', 'is', 'day'), ('days', 'remaining', 'days')]
+Castrato
+[('castrato', 'is', 'type'), ('voice', 'produced', 'castration'), ('Castration', 'transformed', 'boy'), ('result', 'shared', 'sexes'), ('castration', 'made', 'century'), ('castrato', 'grew', 'epiphyses'), ('limbs', 'did', 'bones'), ('training', 'combined', 'training'), ('cords', 'Operating', 'cords'), ('range', 'see', 'higher'), ('recordings', 'see', 'recordings'), ('Eunuch', 'having', 'term')]
+The_Twilight_Zone
+[('Twilight', 'created', 'television'), ('series', 'concluding', 'series'), ('success', 'introduced', 'Americans'), ('program', 'Need', 'tradition'), ('success', 'including', 'feature'), ('CBS', 'ran', 'CBS'), ('TV', 'ranked', 'list')]
+Music_history
+[('Music', 'called', 'musicology'), ('practice', 'based', 'part'), ('terms', 'focus', 'history'), ('methods', 'include', 'source'), (), ('application', 'seen', 'part'), ('discussion', 'see', 'section')]
+History_of_Haiti
+[('history', 'known', 'navigator'), ('Taíno', 'called', 'Taíno'), ('Columbus', 'naming', 'island')]
+University_of_Sudbury
+[('University', 'offers', 'university'), ('Programs', 'include', 'studies'), ('school', 'is', 'school')]
+Apia
+[('Apia', 'is', 'capital'), ('capital', 'was', 'capital'), ('city', 'located', 'north'), ('Apia', 'falls', 'city'), ('boundaries', 'known', 'Letogo')]
+Scorpions_%28band%29
+[('Scorpions', 'founded', 'rock'), ('rock', 'achieved', 'rock'), ('group', 'including', 'synonymous'), ('identity', 'embodies', 'identity'), ('line-up', 'includes', 'incarnation'), ('years', 'defined', 'rock'), ('departure', 'writing', 'control'), ('Matthias', 'playing', 'rock'), ('decade', 'achieved', 'influence'), ('album', 'contains', 'song'), ('singles', 'sold', 'singles'), ('Scorpions', 'sold', 'music'), ('albums', 'reaching', 'albums'), ('Albums', 'describes', 'times'), ('band', 'ranked', 'number'), ('Rock', 'is', 'number'), ('place', None, None), ('awards', 'received', 'awards'), ('group', 'celebrated', 'anniversary')]
+Watchmen
+[('Watchmen', 'collected', 'comic-book'), ('Watchmen', 'acquired', 'story'), ('Moore', 'managing', 'characters'), ('Moore', 'deconstruct', 'story'), ('Watchmen', 'win', 'history'), ('country', 'edging', 'war'), ('story', 'pulls', 'development'), ('focus', 'is', 'structure'), ('Gibbons', 'recurring', 'grid'), ('issue', 'add', 'series'), ('narrative', 'Structured', 'narrative'), ('manner', 'repeated', 'others'), ('success', 'considered', 'acclaim'), ('number', 'adapt', 'series'), ('video', 'is', 'Nigh'), ('DC', 'acting', 'Watchmen'), ('Watchmen', 'published', 'Time')]
+Tomb_Raider
+[('Tomb', 'centering', 'media'), ('games', 'developed', 'Core'), ('movies', 'produced', 'actress'), ('release', 'developed', 'franchise'), ('Lara', 'Walk', 'Game'), ('citation', 'needed', None)]
+Geography_of_Hungary
+[('land', 'is', 'country'), ('km', 'measures', 'km'), ('km', 'shared', 'km'), ('Hungary', 'been', 'World'), ('country', 'secured', 'boundary'), ('Vienna', 'gave', 'Transylvania'), ('Hungary', 'lost', 'territories'), ('World', 'has', 'revision'), ('point', 'is', 'Kékes'), ('spot', 'is', 'm'), ('rivers', 'are', 'Danube'), ('Danube', 'flows', 'parts'), ('Tisza', 'is', 'navigable'), ('rivers', 'include', 'Drava'), ('Hungary', 'has', 'lakes'), ('Lake', 'is', 'km'), ('Hungarians', 'refer', 'Sea'), ('Central', 'is', 'Central'), ('waters', 'offer', 'summer'), ('bodies', 'See', 'Lake'), ('Hungary', 'is', 'regions'), ('country', 'varies', 'land'), ('%', 'is', 'suitable'), ('Hungary', 'needed', 'sources')]
+Mary_of_Teck
+[('Mary', 'raised', 'Queen'), ('parents', 'was', 'Francis'), ('May', 'known', 'May'), ('age', 'betrothed', 'Prince'), ('Albert', 'became', 'next'), ('husband', 'was', 'Duchess'), ('queen', 'arising', 'husband'), ('George', 'ascended', 'queen'), ('son', 'succeeded', 'son'), ('year', 'crowned', 'year')]
+October_21
+[('October', 'is', 'day'), ('days', 'remaining', 'days')]
+Dreyfus_affair
+[('Dreyfus', "l'affaire", 'Dreyfus'), ('affair', 'played', 'symbol'), ('scandal', 'began', 'December'), ('life', 'communicating', 'life'), ('Evidence', 'named', 'light'), ('officials', 'suppressed', 'Esterhazy'), ('Army', 'based', 'Dreyfus'), ('Word', 'published', "J'accuse"), ('Activists', 'reopen', 'pressure'), ('Dreyfus', 'returned', 'France'), ('scandal', 'ensued', 'Dreyfus'), ('trial', 'resulted', 'conviction'), ('accusations', 'be', 'baseless'), ('Dreyfus', 'reinstated', 'Army'), ('whole', 'ending', 'whole'), (None, 'died', None), ('Affair', 'divided', 'France'), ('politics', 'following', 'miscarriage')]
+Qatar_Armed_Forces
+[('Qatar', 'are', 'forces'), ('country', 'including', 'force'), ('Qatar', 'according', 'total'), ('Qatar', 'signed', 'defence'), ('Qatar', 'plays', 'role'), ('presence', 'guaranteed', 'country'), ('SIPRI', 'accelerated', 'Qatar'), ('Orders', 'including', 'number')]
+Mesa_%28programming_language%29
+[('Mesa', 'developed', 'programming'), ('language', 'is', 'pun'), ('Mesa', 'is', 'language'), ('library', 'has', 'source'), ('library', 'use', 'library'), ('Mesa', 'was', 'unusual'), ('Mesa', 'introduced', 'innovations'), ('Mesa', 'developed', 'Xerox'), ('Mesa', 'was', 'system'), ('Xerox', 'called', 'Cedar'), ('Cedar', 'had', 'subset')]
+London_Underground
+[('London', 'known', 'Tube'), ('system', 'needed', 'stations'), ('network', 'operate', 'transit'), ('network', 'making', 'lines'), ('citation', 'needed', 'system'), ('tunnels', 'give', 'rise'), ('lines', 'marketed', 'UD'), ('companies', 'ran', 'railways'), ('operator', 'owned', 'subsidiary'), ('term', 'excluding', 'publicity'), ('%', 'update', 'passenger'), ('Travelcard', 'ticketing', 'Oyster'), ('Tube', 'designed', 'Harry'), ('London', 'created', 'symbols'), ('London', 'marking', 'milestone')]
+Akademos
+[('Akademos', 'was', 'hero'), ('Plutarch', 'was', 'age'), ('outrage', 'destroy', 'Attica'), ('Akademos', 'hidden', 'city'), ('Akademos', 'venerated', 'city'), ('reason', 'showed', 'gratitude'), ('piece', 'called', 'plane'), ('grove', 'be', 'burial'), ('grove', 'lectures', 'phrase'), ('Akademos', 'linked', 'name'), ('site', 'was', 'Athena'), ('times', 'evolved', 'Akademeia'), ('grove', 'presented', 'oil')]
+915
+[('Year', 'display', 'year')]
+Wilson%27s_disease
+[('Wilson', 'accumulates', 'disorder'), ('medication', 'removes', 'medication'), ('copy', 'are', 'present'), ('child', 'inherits', 'gene'), ('Symptoms', 'appear', 'ages'), ('Wilson', 'occurs', 'people'), ('Samuel', 'described', 'Samuel')]
+Ontology_%28information_science%29
+[('computer', 'exist', 'naming'), ('application', 'is', 'application'), ('compartmentalizes', 'organize', 'set'), ('ontology', 'solving', 'problem')]
+Telecommunications_in_Vietnam
+[('Communications', 'include', 'use')]
+Court_of_Appeal_of_England_and_Wales
+[('Majesty', 'known', 'Court'), ('Court', 'Established', 'Court'), ('Criminal', 'hears', 'appeals'), ('Permission', 'required', 'court'), ('Decisions', 'appealed', 'Supreme')]
+Emperor_Ch%25C5%258Dkei
+[('Emperor', 'according', 'emperor'), (None, 'reigned', None), ('name', 'was', 'Yutanari')]
+Nuclear_physics
+[('physics', 'studies', 'field'), ('applications', 'are', 'power'), ('field', 'taught', 'physics')]
+1569
+[('Year', 'display', 'year')]
+Nucleolus
+[('nucleolus', 'serves', 'structure'), ('Nucleoli', 'have', 'functions'), ('Nucleoli', 'form', 'proteins'), ('Malfunction', 'be', 'cause'), ('citation', 'needed', None)]
+Pacifist_organisation
+[('organization', 'renouncing', 'principle'), ('organizations', 'call', 'organizations'), ('organizations', 'have', 'concerns'), ('organizations', 'cite', 'pacifism')]
+Jefferson_County%2C_Pennsylvania
+[('Jefferson', 'is', 'county'), ('census', 'was', None), ('county', 'is', 'Brookville'), ('county', 'organized', 'March'), ('President', 'named', 'President'), ('home', 'come', 'home')]
+Politics_of_Lithuania
+[('Politics', 'is', 'place'), ('Executive', 'headed', 'government'), ('power', 'vested', 'government'), ('Judicial', 'is', 'judges'), ('judiciary', 'consists', 'Constitutional'), ('Constitution', 'established', 'powers'), ('system', 'Being', 'system')]
+Event_cascade
+[('computer', 'triggers', 'event'), ('source', 'see', 'source')]
+Exocrine_gland
+[('glands', 'secrete', 'glands'), ('glands', 'secrete', 'types'), ('Examples', 'include', 'sweat'), ('liver', 'are', 'gland')]
+Abimelech
+[('Abimelech', 'spelled', 'Abimelek')]
+Petrochemical
+[('Petrochemicals', 'derived', 'products'), ('compounds', 'made', 'petroleum'), ('petrochemical', 'including', 'olefins'), ('Oil', 'cracking', 'olefins'), ('Chemical', 'cracking', 'olefins'), ('Aromatics', 'reforming', 'naphtha'), ('Olefins', 'are', 'building-blocks'), ('Olefins', 'used', 'basis'), ('ethylene', 'are', 'tonnes'), ('Aromatics', 'is', 'tonnes'), ('petrochemical', 'are', 'located'), ('petrochemical', 'is', 'petrochemical'), ('petrochemicals', 'means', 'groups'), ('term', 'be', 'oleochemicals'), ('term', 'derived', 'chemicals')]
+Moroccan_cuisine
+[('cuisine', 'influenced', 'Morocco'), ('cuisine', 'is', 'mix'), ('cooks', 'known', 'basis')]
+Rubidium
+[('Rubidium', 'is', 'chemical'), ('Rubidium', 'is', 'element'), ('rubidium', 'is', 'reactive'), ('rubidium', 'is', 'mix'), ('%', 'estimated', '87Rb'), ('chemists', 'developed', 'rubidium'), ('Rubidium', 'have', 'chemical'), ('Rubidium', 'be', 'absorption'), ('rubidium', 'taken', 'organisms')]
+Blue_Angels
+[('Blue', 'is', 'United'), ('Blue', 'formed', 'team'), ('Blue', 'used', 'F/A'), ('spectators', 'view', 'squadron'), ('Blue', 'visit', 'people'), ('Blue', 'flown', 'spectators.On'), ('October', 'is', 'community')]
+Oxylus
+[('mythology', 'refer', None)]
+The_Conversation
+[('Conversation', 'supporting', 'thriller'), ('plot', 'revolves', 'surveillance'), ('Coppola', 'cited', 'film'), ('film', 'resigned', 'theaters'), ('Conversation', 'won', 'Palme'), ('Academy', 'lost', 'Academy'), ('preservation', 'being', 'preservation'), ('Paramount', 'retains', 'rights')]
+The_Ox-Bow_Incident
+[('Incident', 'directed', 'film'), ('Academy', 'being', 'Academy'), ('film', 'written', 'novel')]
+Ambassador
+[('ambassador', 'appointed', 'envoy'), ('word', 'represent', 'persons'), ('use', 'stationed', 'government'), ('host', 'afforded', 'ambassador'), ('Ambassador', 'exchanged', 'members'), ('ambassadors', 'recognized', 'Papal'), ('nations', 'equals', 'countries'), ('development', 'entrusted', 'powers'), ('citation', 'needed', None)]
+Crestone%2C_Colorado
+[('Town', 'is', 'Statutory'), ('town', 'was', 'United'), ('village', 'is', 'village'), ('Crestone', 'was', 'mining'), ('1970s', 'established', 'south'), ('Crestone', 'includes', 'Baca'), ('Crestone', 'is', 'accessible'), ('Activities', 'lie', 'camping'), ('Crestones', 'known', 'turn')]
+Sk%25C3%25AD%25C3%25B0bla%25C3%25B0nir
+[('Skíðblaðnir', 'assembled', 'pieces'), ('Edda', 'written', 'Edda'), ('sources', 'is', 'ship'), ('Heimskringla', 'needed', 'cloth')]
+Gargoyle
+[('architecture', 'eroding', 'water'), ('Architects', 'minimize', 'gargoyles'), ('trough', 'cut', 'back'), ('Gargoyles', 'thrown', 'animal'), ('buttresses', 'used', 'water')]
+Dome_of_the_Rock
+[('Dome', None, None), ('Qubbat', None, None), ('Kipat', 'is', 'Kipat'), ('CE', 'completed', 'CE'), ('Dome', 'is', 'works'), ('Jerusalem', "'s", 'Jerusalem'), ('plan', 'bears', 'Chapel')]
+Floor_%28gymnastics%29
+[('gymnastics', 'considered', 'exercise'), ('gymnasts', 'used', 'gymnasts'), ('event', 'performed', 'floor'), ('English', 'scoring', 'FX'), ('spring', 'provide', 'gymnastics'), ('floors', 'used', 'cheerleading'), ('spring', 'used', 'athletics')]
+Anchor
+[('anchor', 'drifting', 'device'), ('word', 'comes', 'Latin'), ('Anchors', 'be', 'temporary'), ('anchors', 'moved', 'creation'), ('Vessels', 'be', 'anchors')]
+Houston_Rockets
+[('Houston', 'based', 'basketball'), ('team', 'plays', 'Southwest'), ('team', 'moving', 'San'), ('Rockets', 'won', 'games'), ('Elvin', 'drafting', 'Elvin'), ('Hayes', 'traded', None), ('Malone', 'lead', 'MVP'), ('Rockets', 'took', 'Rockets'), ('Rockets', 'lost', 'Hakeem'), ('seasons', 'traded', 'injury'), ('playoff', 'Inspired', 'playoff'), ('Rockets', 'led', 'way'), ('team', 'sweeping', 'champions'), ('playoffs', 'did', 'playoffs'), ('Rockets', 'missed', 'playoffs'), ('Yao', 'retooling', 'period'), ('acquisitions', 'launched', 'Rockets')]
+258
+[('Year', 'display', 'year'), ('time', 'known', 'Year'), ('denomination', 'naming', 'period')]
+Miletus
+[('Miletus', 'was', None), ('ruins', 'are', 'located'), ('Persian', 'considered', 'cities'), ('sources', 'considered', 'city'), ('Miletus', 'reached', 'era'), ('Evidence', 'made', 'inaccessible'), ('evidence', 'came', 'Neolithic.In'), ('Legend', 'displacing', 'influx'), ('site', 'renamed', 'Miletus'), ('Bronze', 'calling', 'arrival'), ('century', 'arrived', None), ('city', 'rebelled', 'Hittite'), ('fall', 'destroyed', 'century'), ('Legend', 'named', 'foundation'), ('Ages', 'were', 'time'), ('Period', 'began', 'flash'), ('century', 'buttress', 'site')]
+Martin_Sheen
+[('Ramón', 'born', 'stage'), ('films', 'Departed', 'Gettysburg'), ('television', 'starred', 'television'), ('film', 'won', 'Actor'), ('portrayal', None, None), ('Willard', 'earned', 'nomination'), ('Sheen', 'worked', 'variety'), ('star', 'Walk', 'star'), ('television', 'starring', 'Golden'), ('United', 'raised', 'United'), ('father', 'known', 'father'), ('documentary', 'earning', 'documentary'), ('addition', 'been', 'active')]
+Communications_blackout
+[('telecommunications', 'are', None)]
+Black_panther
+[('panther', 'is', 'colour'), ('panthers', 'are', 'leopards'), ('panthers', 'are', 'jaguars')]
+Barge
+[('barge', 'built', 'boat'), ('barges', 'pushed', 'self-propelled'), ('Canal', 'contended', 'draft')]
+Iole
+[('mythology', 'was', 'daughter'), ('epitome', 'was', 'daughter'), ('Iole', 'claimed', 'Heracles'), ('Iole', 'was', 'cause'), ('versions', 'are', 'versions'), ('Bibliotheca', 'followed', 'story'), ('sources', None, None), ('Diodorus', 'have', 'information')]
+Politics_of_Chile
+[('Chile', 'behaves', 'republic'), ('Executive', 'exercised', 'government'), ('power', 'vested', 'government'), ('Judiciary', 'is', 'independent'), ('Constitution', 'approved', 'plebiscite'), ('force', 'entered', 'force'), ('Pinochet', 'going', 'power'), ('September', 'passed', 'law'), ('positions', 'disabling', 'positions')]
+Looe_Island
+[('Looe', 'known', 'St'), ('legend', 'landed', 'child'), ('scholars', 'form', 'island'), ('Looe', 'established', 'km')]
+Homemaking
+[('Homemaking', 'known', 'term'), ('act', 'overseeing', 'act'), ('person', 'employed', 'home'), ('term', 'is', 'worker'), ('decades', 'learn', 'courses'), ('school', 'included', 'cooking'), ('tradition', 'wearing', 'tradition'), ('courses', 'abolished', 'likely')]
+Dannii_Minogue
+[('Danielle', 'born', 'singer-songwriter'), ('prominence', 'beginning', 'prominence'), ('Minogue', 'achieved', 'success'), ('return', 'Do', 'return'), ('Minogue', 'Do', 'success'), ('album', 'became', 'career'), ('UK', 'becoming', 'number'), ('Australia', 'judged', 'Australia'), ('Minogue', 'launched', 'fashion'), ('doctorate', 'received', 'doctorate'), ('Minogue', 'winning', 'judge')]
+74
+[('Year', 'display', 'year'), ('time', 'known', 'Year'), ('denomination', 'naming', 'period')]
+Appalachian_League
+[('Appalachian', 'began', 'league'), ('Class', 'was', 'Class'), ('Teams', 'are', 'located'), ('league', 'ends', 'June'), ('Pioneer', 'rung', 'league'), ('Rookie', 'classified', 'Rookie'), ('leagues', 'sell', 'admission'), ('incarnations', 'operated', 'Tennessee')]
+Date-time_group
+[('communications', 'express', 'set'), ('citation', 'presented', 'order'), ('DTG', 'placed', 'header'), ('example', 'is', 'Jun'), ('DTG', 'dispatch', 'date'), ('DTG', 'is', 'message'), ('DTG', 'used', 'message'), ('EXAMPLE', 'represents', '163Ø')]
+Pacific_Northwest_National_Laboratory
+[('Pacific', 'managed', 'United'), ('campus', 'is', 'Richland'), ('PNNL', 'operated', 'Battelle')]
+Hitchhiking
+[('autostop', 'Hitchhiking', 'autostop'), ('ride', 'is', 'mode')]
+2003
+[('MMIII', 'starting', 'year'), (None, 'designated', None)]
+Sam_J._Lundwall
+[('Sam', 'born', 'Sam'), ('number', 'works', 'number'), ('writer', 'debuted', 'writer'), ('1960s', 'was', 'active'), ('LP', 'produced', 'LP'), ('television', 'made', 'television'), ('work', 'published', 'work'), ('job', 'landed', 'job'), ('work', "'s", 'work'), ('work', 'Search', 'studies'), ('summer', 'ran', 'A&K'), ('end', 'published', 'science'), ('Lundwall', 'organised', 'science'), ('board', 'been', 'board'), ('translator', 'been', 'productive')]
+Abakan
+[('Abakan', 'is', 'capital'), ('Census', 'had', 'population')]
+File_viewer
+[('file', 'stored', 'application'), ('file', 'displayed', 'screen'), ('speech', 'using', 'speech')]
+Prime_Minister_of_Japan
+[('Prime', 'is', 'head'), ('Emperor', 'remain', 'Emperor'), ('head', 'dismisses', 'head'), ('office', 'mentions', '1885'), ('form', 'took', 'form'), ('Prime', 'resume', 'Prime')]
+Volkswagen_Beetle
+[('Volkswagen', 'marketed', 'passenger'), ('need', 'be', 'Adolf'), ('Porsche', 'build', 'Porsche'), ('Ferdinand', 'finalise', 'design'), ('cars', 'is', 'cars'), ('drive', 'manufactured', 'drive'), ('1930s', 'designed', '1930s'), ('models', 'derived', 'VW'), ('model', 'marketed', 'home'), ('Beetle', 'designed', 'speed'), ('rise', 'including', 'rise'), ('Beetle', 'increased', 'trend'), ('Citroën', 'dominate', 'trend'), ('Volkswagen', 'succeeded', 'Beetle'), ('Volkswagen', 'recalling', 'Concept')]
+List_of_Finns
+[('list', 'is', 'list'), ('Finland', 'is', 'country')]
+Alphesiboea
+[('Alphesiboea', 'was', 'name')]
+Inelastic_collision
+[('collision', 'conserved', 'collision'), ('collisions', 'causing', 'energy'), ('molecules', 'exchanged', 'molecules'), ('instant', 'possesses', 'extent'), ('sample', 'Averaged', 'sample'), ('collisions', 'conserve', 'energy'), ('pendulum', 'break', 'conservation'), ('scattering', 'see', 'method'), ('experiments', 'using', 'protons'), ('Rutherford', 'bouncing', 'incident'), ('charge', 'concentrated', 'charge'), ('case', 'suggested', 'concentrations')]
+Borland
+[('Borland', 'facilitates', 'software'), ('Borland', 'headquartered', 'Scotts'), ('Micro', 'is', 'Micro'), ('Niels', 'founded', 'Niels')]
+Kanem-Bornu_Empire
+[('Kanem-Bornu', 'existed', 'empire'), ('geographers', 'lasted', 'geographers'), ('height', 'covering', 'area'), ('history', 'discovered', 'Royal')]
+History_of_Burundi
+[('Burundi', 'linked', 'countries'), ('continuation', 'be', 'continuation')]
+Nothing_But_a_Man
+[('Man', 'directed', 'film'), ('story', 'maintain', 'railroad'), ('story', 'depicts', 'struggle'), ('Ivan', 'stars', 'Ivan'), ('Washington', 'made', 'films')]
+Nausinous
+[('mythology', 'was', 'son'), ('Ogygia', 'stranded', 'Ogygia'), ('Hesiod', 'named', 'sons'), ('brother', 'mentioned', 'Homer'), ('citation', 'needed', None)]
+Igor_Dmitriyevich_Novikov
+[('Igor', 'born', 'Moscow'), ('Novikov', 'formulated', 'Novikov'), ('Novikov', 'gained', 'Ph.D.'), ('degree', None, None), ('head', 'was', 'head'), ('head', 'been', 'head'), ('director', 'been', 'director'), ('professor', 'been', 'professor'), ('Fellow', 'been', 'Fellow'), ('Novikov', 'has', 'Eleonora'), ('father', 'disappeared', 'Stalin'), ('wing', 'came', 'wing'), ('citation', 'needed', None)]
+Natacha_Atlas
+[('Natacha', 'born', 'March'), ('music', 'termed', 'music'), ('music', 'including', 'styles'), ('Atlas', 'began', 'career'), ('solo', 'focus', 'solo'), ('solo', 'been', 'solo'), ('version', 'reaching', 'surprise')]
+Chester_County%2C_Pennsylvania
+[('Chester', 'is', 'county'), ('census', 'was', None), ('county', 'is', 'West'), ('Chester', 'created', 'Pennsylvania'), ('Chester', 'named', 'Chester'), ('Chester', 'included', 'Philadelphia-Camden-Wilmington'), ('Eastern', 'considered', 'home')]
+Theft
+[('usage', 'deprive', 'taking'), ('word', 'obtaining', 'shorthand'), ('jurisdictions', 'be', 'synonymous'), ('Someone', 'makes', 'act'), ('act', 'thieving', 'terms'), ('citation', 'needed', None)]
+Centers_for_Disease_Control_and_Prevention
+[('Centers', 'is', 'health'), ('CDC', 'headquartered', 'agency'), ('CDC', 'applying', 'attention'), ('attention', 'improve', 'attention'), ('addition', 'founding', 'information')]
+Cher
+[('Cherilyn', 'born', 'Cher'), ('autonomy', 'embodying', 'autonomy'), ('Cher', 'gained', 'popularity'), ('solo', 'releasing', 'solo'), ('Goldmine', 'setting', 'leader'), ('duo', 'owing', 'audience'), ('fashion', 'wearing', 'fashion'), ('television', 'established', 'television'), ('divorce', 'earned', 'decline'), ('Cher', 'starred', 'Broadway'), ('years', 'won', 'films'), ('debut', 'made', 'debut'), ('time', 'releasing', 'rock'), ('peak', 'known', 'peak'), ('Proof', 'Living', 'Proof'), ('deal', 'signed', 'deal'), ('years', 'returned', 'film'), ('Cher', 'had', 'solo'), ('Academy', 'won', 'Academy'), ('records', 'making', 'records'), ('artist', 'have', 'artist'), ('music', 'noted', 'views')]
+Prometheus
+[('Prometheus', 'meaning', 'prəˈmiːθiːəs'), ('Prometheus', 'ascending', 'Zeus'), ('Prometheus', 'defeated', 'side'), ('myths', 'inflicted', 'versions'), ('version', 'is', 'version'), ('narratives', 'being', 'Theogony'), ('Hesiod', 'being', 'Prometheus'), ('trick', 'conceding', 'parts'), ('episodes', 'include', 'Prometheus'), ('part', 'exclude', 'selective'), ('combinations', 'depicting', 'needs'), ('author', 'depicting', 'stories'), ('growth', 'exert', 'interpretation'), ('influence', 'follow', 'form'), ('tragedians', 'affected', 'myth'), ('plays', 'survived', 'place'), ('majority', 'written', 'Aeschylus'), ('personage', 'including', 'sculpture'), ('influence', 'extends', 'century')]
+National_Gallery_of_Victoria
+[('National', 'known', 'NGV'), ('art', 'Founded', 'art'), ('NGV', 'operates', 'sites'), ('St', 'designed', 'Sir'), ('Ian', 'opened', 'LAB')]
+Heavy_water
+[('water', 'makes', 'form')]
+Language
+[('Language', 'do', 'ability'), ('study', 'called', 'linguistics'), ('Questions', 'represent', 'experience'), ('Thinkers', 'originated', 'language'), ('philosophers', 'is', 'philosophy'), ('figures', 'include', 'Ferdinand'), ('Estimates', 'vary', None), ('estimate', 'depends', 'distinction'), ('languages', 'signed', 'media'), ('language', 'is', 'language'), ('perspectives', 'used', 'concept'), ('languages', 'relate', 'process'), ('sign', 'form', 'system'), ('language', 'relies', 'properties'), ('structure', 'affords', 'range'), ('Language', 'form', 'hominins'), ('development', 'coincided', 'increase'), ('Language', 'processed', 'locations'), ('Humans', 'acquire', 'language'), ('use', 'entrenched', 'human'), ('addition', 'signifying', 'uses'), ('group', 'descend', 'ancestor'), ('family', 'spoken', 'English'), ('languages', 'spoken', 'Southern'), ('Academic', 'become', '%')]
+Enron
+[('Enron', 'based', 'energy'), ('bankruptcy', 'claimed', 'staff'), ('Fortune', 'named', 'Enron'), ('end', 'known', 'condition'), ('Enron', 'become', 'example'), ('scandal', 'was', 'question'), ('scandal', 'selected', 'business'), ('bankruptcy', 'ended', 'bankruptcy'), ('board', 'liquidating', 'name'), ('September', 'remaining', 'Prisma')]
+1121
+[('Year', 'display', 'year')]
+Daggett_County%2C_Utah
+[('Daggett', 'is', 'county'), ('census', 'making', 'county'), ('county', 'is', 'Manila'), ('county', 'named', 'Ellsworth'), ('community', 'is', 'community'), ('corner', 'is', 'corner')]
+Grant_County%2C_Oregon
+[('Grant', 'is', 'county'), ('census', 'was', None), ('county', 'is', 'Canyon'), ('President', 'included', 'President')]
+Antalcidas
+[('Antalcidas', 'was', 'soldier'), ('BC', 'recognize', 'Tiribazus'), ('Athenians', 'counteract', 'embassy'), ('Tiribazus', 'was', 'favourable'), ('BC', 'went', 'assistance'), ('success', 'accept', 'such'), ('Antalcidas', 'diminished', 'favour'), ('mission', 'was', 'failure')]
+International_Bank_Account_Number
+[('International', 'reduced', 'system'), ('European', 'adopted', 'European'), ('standard', 'indicates', 'ISO'), ('payments', 'facilitate', 'payments'), ('September', 'using', 'IBAN'), ('check', 'submitting', 'sanity')]
+Death
+[('Death', 'sustain', 'termination'), ('Phenomena', 'bring', 'death'), ('Bodies', 'decompose', 'death'), ('Death', 'having', 'occasion')]
+Antioxidant
+[('antioxidant', 'inhibits', 'molecule'), ('Oxidation', 'involving', 'reaction'), ('Oxidation', 'produce', 'radicals'), ('turn', 'start', 'chain'), ('chain', 'occurs', 'cell'), ('Antioxidants', 'inhibit', 'chain'), ('antioxidants', 'oxidized', 'agents'), ('levels', 'kill', 'stress'), ('stress', 'is', 'damage'), ('stress', 'including', 'role'), ('use', 'studied', 'treatments'), ('reasons', 'be', 'cause'), ('Antioxidants', 'investigated', 'supplements'), ('studies', 'promote', 'supplements'), ('trials', 'including', 'trials'), ('Supplementation', 'prevent', 'risk')]
+1836
+[('Year', 'starting', 'leap')]
+Health
+[('Health', 'is', 'level'), ('humans', 'facing', 'ability'), ('World', 'defined', 'health'), ('definition', 'created', 'subject'), ('Classification', 'promote', 'components'), ('Applications', 'covered', 'sciences'), ('term', 'used', 'context'), ('addition', 'including', 'health'), ('Studies', 'affect', 'levels')]
+Constitutional_law
+[('Constitutional', 'defines', 'body'), ('nation', 'consist', 'constitutions'), ('law', 'include', 'law'), ('Constitutional', 'exercises', 'authority'), ('instances', 'spend', 'powers'), ('principles', 'prohibiting', 'limits'), ('nations', 'being', 'text')]
+Marlinespike_hitch
+[('hitch', 'handle', 'knot'), ('tension', 'gripping', 'tension'), ('knots', 'tightening', 'useful'), ('name', 'suggests', 'hitch'), ('advantages', 'serve', 'purpose'), ('form', 'is', 'form'), ('noose', 'capsize', 'noose'), ('hitch', 'attach', 'hammock')]
+Pulse
+[('medicine', 'represents', 'palpation'), ('pulse', 'compressed', 'place'), ('Pulse', 'measuring', 'equivalent'), ('heart', 'counting', 'heart'), ('study', 'known', 'sphygmology')]
+Fraxinus_americana
+[('Fraxinus', 'found', 'species'), ('populations', 'Isolated', 'Texas')]
+Range_%28statistics%29
+[('arithmetic', 'is', 'difference'), ('range', 'provides', 'size'), ('units', 'measured', 'units'), ('observations', 'depends', 'observations')]
+Printer_%28computing%29
+[('computing', 'makes', 'representation'), ('printer', 'produce', 'laser'), ('world', 'invented', 'apparatus'), ('system', 'print', 'series'), ('printers', 'operated', 'mechanisms'), ('demand', 'led', 'development'), ('systems', 'used', '1980s'), ('plotter', 'requiring', 'quality'), ('introduction', 'known', 'revolution'), ('Laser', 'using', 'PostScript'), ('printing', 'dumped', 'computers'), ('HP', 'depending', 'advantages'), ('Inkjet', 'displaced', 'dot'), ('printers', 'became', 'price'), ('internet', 'moving', 'internet'), ('desire', 'displaced', 'e-book'), ('printers', 'printing', 'purposes'), ('devices', 'become', 'stages')]
+Viracopos_International_Airport
+[('Viracopos/Campinas', 'referred', 'São'), ('airport', 'normalized', 'form'), ('neighborhood', 'operated', 'neighborhood')]
+Counter-Strike
+[('Counter-Strike', 'developed', 'first-person'), ('Half-Life', 'hired', 'Half-Life'), ('Counter-Strike', 'released', 'Valve'), ('game', 'is', 'franchise'), ('remakes', 'released', 'Xbox'), ('locations', 'Set', 'locations'), ('round', 'killing', 'means'), ('player', 'earned', 'arsenal')]
+Dispute_resolution
+[('Dispute', 'resolving', 'process')]
+813
+[('Year', 'display', 'year'), ('duology', 'starring', 'duology')]
+IP_address
+[('Internet', 'uses', 'label'), ('IP', 'addressing', 'functions'), ('role', 'seek', 'name'), ('address', 'is', None), ('route', 'get', None), ('designers', 'defined', 'IP'), ('growth', 'using', 'bits'), ('IPv6', 'was', 'standardized'), ('IP', 'displayed', 'notations')]
+Geography_of_Costa_Rica
+[('Costa', 'surrounding', 'Central'), ('Caribbean', 'borders', 'Caribbean'), ('Costa', 'shares', 'border'), ('area', 'making', 'km')]
+Taurine
+[('Taurine', 'distributed', 'acid'), ('constituent', 'found', 'constituent'), ('Taurine', 'has', 'roles'), ('function', 'is', 'essential'), ('Taurine', 'contain', 'unusual'), ('taurine', 'containing', 'amino')]
+June_13
+[('June', 'is', 'day'), ('days', 'remaining', 'days')]
+Fertilisation
+[('Fertilisation', 'known', 'conception'), ('animals', 'leads', 'fusion'), ('animal', 'occur', 'body'), ('cycle', 'called', 'reproduction')]
+Mineraloid
+[('mineraloid', 'demonstrate', 'substance'), ('Mineraloids', 'accepted', 'compositions'), ('example', 'is', 'glass'), ('Jet', 'decaying', 'wood'), ('Opal', 'is', 'mineraloid'), ('Pearl', 'be', 'mineral')]
+Narc%25C3%25ADs_Oller
