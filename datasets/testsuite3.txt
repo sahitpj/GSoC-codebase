@@ -1,0 +1,26 @@
+Amalthea_%28moon%29.conll,Haggai.conll,Himachal_Pradesh.conll
+1
+(Amalthea, hypernym, moon)
+(Amalthea, discoveredOn, September_9_1892)
+(Amalthea, discoveredBy, Edward_Emerson_Barnard)
+(Amalthea, also_known_as, Jupiter_V)
+(Amalthea_%28moon%29, consistOf, water_ice)
+(Amalthea, photographedIn, 1979)
+(Amalthea, photographedIn, 1980)
+(Amalthea, photographedBy, Voyager_1)
+(Amalthea, photographedBy, Voyager_2)
+2
+(Haggai, hypernym, Hebrew_prophet)
+3
+(Himachal_Pradesh, hypernym, state)
+(Himachal_Pradesh, spreadOver, 21,495_miles)
+(Himachal_Pradesh, famousFor, abundant_natural_beauty)
+(Himachal_Pradesh, namedBy, Acharya_Diwakar_Datt_Sharma)
+(Delhi, hypernym, state)
+(Punjab, hypernym, state)
+(Rajasthan, hypernym, state)
+(economy_of_the_state, dependentOn, hydroelectric_power)
+(economy_of_the_state, dependentOn, tourism)
+(economy_of_the_state, dependentOn, agriculture)
+(Himachal_Pradesh, spreadAcross, valleys)
+(hill_stations, hypernym, places)

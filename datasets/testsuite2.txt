@@ -1,6 +1,21 @@
 Anger.conll,Osman_I.conll,Lillehammer.conll
 1
-('Anger', 'hypernym', 'response')
-('Anger', 'hypernym', 'intense_emotional_response')
-('wrath', 'hypernym', 'response')
-('wrath', 'hypernym', 'intense_emotional_response')
+(Anger, hypernym, response)
+(Anger, hypernym, intense_emotional_response)
+(wrath, hypernym, response)
+(wrath, hypernym, intense_emotional_response)
+(anger, modalities, cognitive_appraisals)
+(anger, modalities, somatic_affective_tension_and_agitations)
+(anger, modalities, behavioral_withdrawal_and_antagonism)
+(William_DeFoore, hypernym, anger_writer)
+2
+(Osman, hypernym, leader)
+(Osman, leaderOf, Ottoman_Turks)
+(Ottoman_principality, hypernym, principalities)
+3
+(Lillehammer, hypernym, town)
+(Lillehammer, hypernym, muncipality)
+(Lillehammer, in, Oppland_county)
+(Lillehammer, population, 26,369)
+(city_centre, hypernym, wooden_houses)
+(Lillehammer, hosted, Winter_Olympics)
