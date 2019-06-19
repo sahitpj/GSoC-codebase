@@ -1,4 +1,4 @@
-Anger.conll,Osman_I.conll,Lillehammer.conll
+Anger,Osman_I,Lillehammer
 1
 (Anger, hypernym, response)
 (Anger, hypernym, intense_emotional_response)

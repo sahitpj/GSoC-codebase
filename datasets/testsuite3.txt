@@ -1,4 +1,4 @@
-Amalthea_%28moon%29.conll,Haggai.conll,Himachal_Pradesh.conll
+Amalthea_%28moon%29,Haggai,Himachal_Pradesh
 1
 (Amalthea, hypernym, moon)
 (Amalthea, discoveredOn, September_9_1892)

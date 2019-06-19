@@ -1,4 +1,4 @@
-Asexual_reproduction.conll,Simonides_of_Ceos.conll,Hawaii.conll
+Asexual_reproduction,Simonides_of_Ceos,Hawaii
 1
 ('Asexual_reproduction', 'hypernym', 'reproduction')
 ('agamogenesis', 'hypernym', 'reproduction')
