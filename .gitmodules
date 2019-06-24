@@ -10,3 +10,6 @@
 [submodule "syntaxnet_triplets"]
 	path = syntaxnet_triplets
 	url = https://github.com/sahitpj/syntaxnet_triplets
+[submodule "hypernymysuite"]
+	path = hypernymysuite
+	url = https://github.com/sahitpj/hypernymysuite
