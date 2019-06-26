@@ -13,3 +13,6 @@
 [submodule "hypernymysuite"]
 	path = hypernymysuite
 	url = https://github.com/sahitpj/hypernymysuite
+[submodule "TE-webapp"]
+	path = TE-webapp
+	url = https://github.com/sahitpj/TE-webapp

@@ -1,0 +1,24 @@
+((['http://dbpedia.org/resource/British_Columbia'], ['90']), ('was', []), ('year', ['a', 'of the pre-Julian Roman calendar']))
+((['http://dbpedia.org/resource/Time'], ['the']), ('known', ['was']), (['http://dbpedia.org/resource/Year'], ['the', 'of the Consulship of Caesar and Lupus']))
+((['http://dbpedia.org/resource/Christian_denomination'], ['The', '90', 'for this year']), ('naming', []), (['http://dbpedia.org/resource/Period_(geology)'], ['the', 'early', 'medieval']))
+[((['http://dbpedia.org/resource/British_Columbia'], ['90']), ('was', []), ('year', ['a', 'of the pre-Julian Roman calendar'])), ((['http://dbpedia.org/resource/Time'], ['the']), ('known', ['was']), (['http://dbpedia.org/resource/Year'], ['the', 'of the Consulship of Caesar and Lupus'])), ((['http://dbpedia.org/resource/Christian_denomination'], ['The', '90', 'for this year']), ('naming', []), (['http://dbpedia.org/resource/Period_(geology)'], ['the', 'early', 'medieval']))]
+(('CLU', []), ('created', []), (['http://dbpedia.org/resource/Computer_programming'], ['a', 'pioneering']))
+(('use', ['extensive']), ('find', ['did']), ('use', ['extensive']))
+((['http://dbpedia.org/resource/Feature_film'], ['many', 'of OOP.Key contributions']), ('include', []), (['http://dbpedia.org/resource/Object-oriented_programming'], []))
+(('use', ['its', 'of classes with constructors and methods']), ('is', ['also']), ('notable', []))
+
+[(('CLU', []), ('created', []), (['http://dbpedia.org/resource/Computer_programming'], ['a', 'pioneering'])), (('use', ['extensive']), ('find', ['did']), ('use', ['extensive'])), ((['http://dbpedia.org/resource/Feature_film'], ['many', 'of OOP.Key contributions']), ('include', []), (['http://dbpedia.org/resource/Object-oriented_programming'], [])), (('use', ['its', 'of classes with constructors and methods']), ('is', ['also']), ('notable', []))]
+
+(('Heinrich', []), ('theorized', []), (['http://dbpedia.org/resource/Physicist'], ['a', 'German']))
+((['http://dbpedia.org/resource/Hertz'], []), ('ruled', []), (['http://dbpedia.org/resource/Theory'], ['the', 'by engineering instruments']))
+((['http://dbpedia.org/resource/Units_of_measurement'], ['The', 'scientific', 'of frequency']), ('named', ['was']), ('hertz', ['the', 'in his honor']))
+
+[(('Heinrich', []), ('theorized', []), (['http://dbpedia.org/resource/Physicist'], ['a', 'German'])), ((['http://dbpedia.org/resource/Hertz'], []), ('ruled', []), (['http://dbpedia.org/resource/Theory'], ['the', 'by engineering instruments'])), ((['http://dbpedia.org/resource/Units_of_measurement'], ['The', 'scientific', 'of frequency']), ('named', ['was']), ('hertz', ['the', 'in his honor']))]
+
+((['http://dbpedia.org/resource/Sweyn_Haakonsson'], []), ('was', []), (['http://dbpedia.org/resource/Social'], ['a', 'Swedish']))
+((['http://dbpedia.org/resource/Mentorship'], ['A', 'longtime', 'of Prime Minister Tage Erlander , Palme']), ('heading', []), (['http://dbpedia.org/resource/Social'], ['the', 'Swedish', 'from 1969', 'until his assassination in 1986']))
+((['http://dbpedia.org/resource/Election'], []), ('defeats', []), ('end', ['the', 'of Social Democratic']))
+((['http://dbpedia.org/resource/Leadership'], ['of opposition']), ('returned', []), ('interests', ['domestic', 'international']))
+((['http://dbpedia.org/resource/Figurative_art'], ['domestically as well as in international politics since the 1960s']), ('polarizing', []), (['http://dbpedia.org/resource/Figurative_art'], ['domestically as well as in international politics since the 1960s']))
+((['http://dbpedia.org/resource/Head'], ['the', 'first', 'Western', 'of Government']), ('praising', []), (['http://dbpedia.org/resource/Head'], ['the', 'first', 'Western', 'of Government']))
+((['http://dbpedia.org/resource/Eminent_domain'], ['His', '1972', 'of the Hanoi bombings']), ('comparing', ['notably']), (['http://dbpedia.org/resource/Military_tactics'], ['the', 'to the Treblinka extermination camp']))
