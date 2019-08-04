@@ -1,0 +1,26 @@
+Configurations
+1. using predefined hearst
+2. use parse-tree + hearst
+3. use dependencies + parse-tree + hearst
+
+
+Topics
+A. Spectre
+1. (spectre, hypernym, film); (spectre, endIn, SkyFall)
+2. (Spectre, produced, James); (Daniel, marking, Daniel); (245 million dollars, madeBy, Bond); (Metro-Goldwyn-Mayer, distributed, Metro-Goldwyn-Mayer)
+3. (Waltz, hypernym (low), film); (film, hypernym (low), SkyFall); (film, producedBy, Eon Productions); (film, mark_into, series); (film, hypernym, Spectre)
+
+B. New-York
+1. (united states, typeOf, populous urban agglomeration); (headquarters, attribute, center)
+2. (A global power, exerts, impact); (headquarters of UN, described, centre for international diplomacy)
+3. (city, hypernym, New York); (state, hypernym, New York); (city, hypernym (low), States); (centre, hyperntm (low), area); (centre for international diplomacy, decrib_as, financial capital of world)
+
+C. Solar Energy 
+1. ()
+2. (Solar, using, radiant)
+3. (light, hypernym, energy); (technologies, hypernym (low), heating); (light, hypernym (low), Sun)
+
+D. Symbiosis
+1. (albert_bernhard_frank, used, symbiosis)
+2. (Symbiosis, living, interaction); (Albert, described, the word); (1879, defined, living of unlike organisms)
+3. (people, live_in, community); (interaction, hypernym (low), species); (relationship, hypernym (low), lichens)
