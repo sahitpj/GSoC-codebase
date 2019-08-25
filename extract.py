@@ -37,8 +37,10 @@ with open('wikiData.json') as f:
 
 # pprint(data['data'])
 count = 0
-for topic in data['data'][20:]:
+for topic in data['data'][:10]:
     print(topic['paragraphs'][0]['context'])
+    print(topic['paragraphs'][1]['context'])
+    print(topic['paragraphs'][2]['context'])
     count += 1
     print(count)
     print('\n')
