@@ -1,6 +1,6 @@
-# GSoC 2019 -  DBpedia
+# Code base of the GSoC 2019 project 'DBpedia Triple Extractor'
 
-The code base for my Google Summer of Code 2019 project under DBpedia - Tool to generate RDF triples from DBpedia abstract. 
+This is the code base for my Google Summer of Code 2019 project under DBpedia entitled 'Tool to generate RDF triples from DBpedia abstracts'. There is a web application using this code base at [github.com/sahitpj/TE-webapp](https://github.com/sahitpj/TE-webapp). 
 
 The blog to the following project can be found at [`https://sahitpj.github.io/gs` ](https://sahitpj.github.io/gs). The following submodules are modifications of the forks of their projects.
 
